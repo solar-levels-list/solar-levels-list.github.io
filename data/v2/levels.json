@@ -43,7 +43,13 @@
     "verifier": "soper",
     "id": "152516486",
     "video": "https://www.youtube.com/watch?v=-jdUMAOBhds",
-    "victors": []
+    "victors": [
+      {
+        "name": "Bluamek",
+        "video": "https://youtu.be/ALmkMWkGbXI",
+        "enjoyment": 8
+      }
+    ]
   },
   {
     "name": "RGB Circles",
